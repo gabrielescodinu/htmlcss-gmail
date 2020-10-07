@@ -1,0 +1,69 @@
+body {
+  background-image: url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fssl.gstatic.com%2Fui%2Fv1%2Ficons%2Fmail%2Fthemes%2Fdesk%2Fbg2_1920x1200.jpg);
+
+}
+
+/* header */
+header {
+  width: 1000px;
+  margin: auto;
+  border-bottom: 1px solid white;
+}
+h1 {
+  display: inline-block;
+  color: white;
+}
+main {
+  width: 1000px;
+  margin: auto;
+}
+
+/* input */
+.search_bar {
+  margin-top: 10px;
+}
+.go_button {
+  border-radius: 10px;
+}
+
+/* number of email */
+h2 {
+  color: white;
+}
+.number_emails {
+  background: orange;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+/* barra email */
+.barra_email_1 {
+  background: grey;
+  border: 2px solid black;
+}
+.barra_email_2 {
+  background: lightgrey;
+  border: 2px solid black;
+}
+.oggetto_mail {
+  font-size: 20px;
+}
+.testo_mail {
+  font-size: 20px;
+  color: white;
+}
+
+/* credits */
+footer {
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+#gmail_credits {
+  font-size: 20px;
+  color: white;
+}
+#powered {
+  color: white;
+}
