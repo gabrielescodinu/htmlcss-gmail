@@ -13,6 +13,10 @@ h1 {
   display: inline-block;
   color: white;
 }
+.logo {
+  vertical-align: middle;
+}
+
 main {
   width: 1000px;
   margin: auto;
@@ -23,7 +27,7 @@ main {
   margin-top: 10px;
 }
 .go_button {
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 /* number of email */
@@ -40,11 +44,11 @@ h2 {
 /* barra email */
 .barra_email_1 {
   background: grey;
-  border: 2px solid black;
+  border: 1px solid black;
 }
 .barra_email_2 {
   background: lightgrey;
-  border: 2px solid black;
+  border: 1px solid black;
 }
 .oggetto_mail {
   font-size: 20px;
